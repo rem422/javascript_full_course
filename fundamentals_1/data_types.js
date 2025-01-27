@@ -13,6 +13,26 @@
 
 // JavaScript has dynamic typing: We do not have to manually define the type of the value stored in a variable. Instead, data types are determined automatically.
 
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+
+console.log(typeof javascriptIsFun);
+console.log(typeof 23);
+console.log(typeof "Jonas");
+
+javascriptIsFun = 'YES!';
+console.log(typeof javascriptIsFun);
+
+let myName;
+console.log(myName);
+console.log(typeof myName);
+
+myName = 'Rem Simiyu';
+console.log(typeof myName);
+
+console.log(typeof null);
+
+
 
 
 
