@@ -7,8 +7,8 @@ console.log(23);
 let firstName  = 'Rem';
 console.log(firstName);
 
-//conventions and roules for naming variables
-//avoid usign numbers and js reserved names or starting a variable name with uppercase letter.
+//conventions and rules for naming variables
+//avoid using numbers and js reserved names or starting a variable name with uppercase letter.
 
 //camel case
 let lastName = "Simiyu";
