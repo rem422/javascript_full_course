@@ -4,7 +4,7 @@ function calcAge1(birthYear) {
     return currentYear - birthYear;
 }
 
-const age1 = calcAge1(2000)
+const age1 = calcAge1(2000);
 console.log(age1);
 
 //Function expression
