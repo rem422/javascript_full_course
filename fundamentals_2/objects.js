@@ -10,9 +10,8 @@ const person = {
     friends: ['Miles', 'Jonas', 'Micheal'],
 }
 
-person.firstName = 'John';
+console.log(person);
 
-console.log(`I am ${person.firstName} ${person.lastName} from ${person.city} and I am a ${person.age} years old ${person.job}. I love ${person.hobby} adnd my friends are ${person.friends}.`);
 
 
 
